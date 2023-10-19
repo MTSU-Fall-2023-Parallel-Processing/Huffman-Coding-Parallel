@@ -34,4 +34,4 @@ Compare `untitled.txt` to `decoded.txt`
 
 ## Credits
 
-Source code for serial `huffman.c` is modified from [gyaikhom](https://github.com/gyaikhom/huffman)
+Source code for [`Serial/huffman.c`](Serial/Huffman.c) is modified from [gyaikhom](https://github.com/gyaikhom/huffman)
