@@ -29,3 +29,9 @@ Decode `encoded.dat` into `decoded.txt`
 Compare `untitled.txt` to `decoded.txt`
 
     $ make test
+
+<hr>
+
+## Credits
+
+Source code for serial `huffman.c` is modified from [gyaikhom](https://github.com/gyaikhom/huffman)
